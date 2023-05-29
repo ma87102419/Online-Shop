@@ -31,4 +31,4 @@ For the front-end side, run with `npm start` in `client/angular-ecommerce/` dire
 
 The online shop website can be accessed at `https://localhost:4200/`.
 
-Start shopping all kinds of good things online!
+## Start shopping all kinds of good things online!
