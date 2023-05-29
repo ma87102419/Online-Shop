@@ -2,7 +2,7 @@
 
 ## Description and Features
 
-This is an e-commerce project which uses Angular as front-end and Spring Boot as back-end, and MySQL as database.
+This is an e-commerce project which uses Angular as front-end, Spring Boot as back-end, and MySQL as database.
 Users can browse four product categories: books, coffee mugs, mouse pads, and luggage tags. They can also enter keywords to search for products.
 
 After the user checks out, an automatic confirmation email is sent to the user's registered email address for record-keeping and reference.
